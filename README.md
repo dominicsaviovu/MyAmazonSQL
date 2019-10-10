@@ -6,11 +6,15 @@ For this homework, we were challenged to use our new found knowlegde of MySQL. T
 ## MySQLWorkbench
 - With this program I was able to create a database and create tables. The program feels a little outdated but I was able to manuver around it after getting use to it. It is pretty sraight forward. 
 
-![] (images/MySQLWB.png)
+The image below will show you the work i did in MySQLWorkBench.
+
+![](images/MySQLWB.png)
 
 
+# Examples:
+The screenshots below shows you how it works and that it's fully functional. 
 
-
-
-
-Examples:
+![](images/1st.png)
+![](images/2nd.png)
+![](images/3rd.png)
+![](images/bye.png)
